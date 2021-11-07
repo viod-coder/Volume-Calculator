@@ -1,0 +1,13 @@
+/* input {
+  font-size: 1.64rem !important;
+  color: rgb(231, 19, 185) !important;
+}
+input.valid {
+  color: rgb(231, 19, 185) !important;
+} */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
